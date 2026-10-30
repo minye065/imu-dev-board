@@ -2,7 +2,7 @@
 
 
 
-\![](https://cdn.hackclub.com/01a18f1d-7104-726f-a95a-f40e476fce02/image.png)
+![pcb](https://cdn.hackclub.com/01a18f1d-7104-726f-a95a-f40e476fce02/image.png)
 
 
 
