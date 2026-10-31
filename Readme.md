@@ -12,3 +12,6 @@ A devboard that lets you test imu programs via the onboard imu and being able to
 
 \*Powered via the usb cable
 
+Features:
+RP2350A - MCU
+ICM-42688-P - IMU
