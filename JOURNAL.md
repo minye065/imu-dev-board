@@ -3,7 +3,7 @@ title: "dev board"
 github: "https://github.com/minye065/imu-dev-board"
 description: "my own devboard"
 created_at: "2026-10-28"
-total_time: "15h"
+total_time: "22h 30m"
 ---
 
 # October 29, 2026: Found parts and wrote basic BOM
@@ -60,3 +60,29 @@ There are also small dashed lines connected to a box
 That is the exclude areas.
 
 **Total time spent: 5h**
+
+# October 30, 2026 (entry 2): Some notes
+<!-- fabricate:entry 1696 -->
+
+There is no request for a grant due to me waiting for a response from several companies on parts that may be sent as a sample.
+![](https://fabricate.hackclub-assets.com/d06d4fdb93e778e7223252954dd8041ec1abe8cc0f1ce635510dceedc9ef3aa6/image-png/image.png)
+
+I mean i don't think i can buy a singular button from them...
+Also buying these alone would not be wise at all as the tariff + shipping is almost 2x the cost of the parts. As far as i can tell, the cost would be around 30 dollars including tariffs and taxes and handling and shipping.
+Total is 41 parts
+
+**Total time spent: 2h**
+
+# October 31, 2026: Fixed a bunch of issues with the pcb
+<!-- fabricate:entry 1772 -->
+
+Before:
+![](https://fabricate.hackclub-assets.com/dd110cc2ba29cc2db27a2f463caddc6def951c8fbf025ffee7bb00ac6b635b69/image-png/image.png)
+
+After:
+![](https://fabricate.hackclub-assets.com/1f407ea0b08a5b92e9595f0f9ad6312b8cb54977a1508fb9d0f3a1ae1911e3e6/image-png/image.png)
+
+
+Also moved the switch and the usb to the edge of the pcb, tried fixing vias (failed pretty much) and pretty much rerouted 3/4 corners of the board to make things fit
+
+**Total time spent: 5h 30m**
